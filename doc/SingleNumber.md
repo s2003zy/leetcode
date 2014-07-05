@@ -1,6 +1,6 @@
 #Single Number
 
-...cpp
+```cpp
 class Solution {
 public:
     int singleNumber(int A[], int n) {
@@ -13,13 +13,13 @@ public:
         return result;
     }
 };
-...
+```
 
-...python
+```python
 class Solution:
     def singleNumber(self, A):
     	result = 0
     	for number in A:
     		result ^= number
     	return result
-...python
+```
