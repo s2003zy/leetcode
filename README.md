@@ -4,7 +4,8 @@ leetcode
 
 [Single Number](https://github.com/s2003zy/leetcode/blob/master/doc/SingleNumber.md)
 
-[Partition List]()
+[Partition
+List](https://github.com/s2003zy/leetcode/blob/master/doc/PartitionList.md)
 
 
 #Why I Did This ?
