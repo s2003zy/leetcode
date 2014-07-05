@@ -2,9 +2,9 @@ leetcode
 ========
 #Problem List 
 
--[Single Number](https://github.com/s2003zy/leetcode/blob/master/doc/SingleNumber.md)
+1.[Single Number](https://github.com/s2003zy/leetcode/blob/master/doc/SingleNumber.md)
 
--[Partition
+2.[Partition
 List](https://github.com/s2003zy/leetcode/blob/master/doc/PartitionList.md)
 
 
