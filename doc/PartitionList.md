@@ -1,6 +1,6 @@
 #Partition List
 
-[Partition List](https://oj.leetcode.com/problems/partition-list/)
+[Partition List On Leetcode](https://oj.leetcode.com/problems/partition-list/)
 
 ###C++
 
