@@ -1,4 +1,7 @@
 #Single Number
+[Single Number On leetcode](https://oj.leetcode.com/problems/single-number/)
+
+###C++
 
 ```cpp
 class Solution {
@@ -14,6 +17,8 @@ public:
     }
 };
 ```
+
+###python
 
 ```python
 class Solution:
