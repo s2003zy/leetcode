@@ -55,7 +55,9 @@ you could email me.
 #About me
 A student in mainland China
 
-Welcom to offer me an intership.
+Welcom to contact me.
+
+Also welcom to offer me intership.Thank in advance.^_^ 
 
 My blog: [http://s2003zy.com](http://s2003zy.com)
 
