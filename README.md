@@ -7,6 +7,7 @@ leetcode
 [Partition
 List](https://github.com/s2003zy/leetcode/blob/master/doc/PartitionList.md)
 
+[Letter Combinations of a Phone Number](https://github.com/s2003zy/leetcode/blob/master/doc/LetterCombinationsOfaPhoneNumber.md)
 
 #Why I Did This ?
 
