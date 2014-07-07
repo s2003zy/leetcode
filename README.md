@@ -12,6 +12,8 @@ List](https://github.com/s2003zy/leetcode/blob/master/doc/PartitionList.md)
 [Search in Rotated Sorted
 Array](https://github.com/s2003zy/leetcode/blob/master/doc/SearchInRotatedSortedArray.md)
 
+[Search in Rotated Sorted Array II](https://github.com/s2003zy/leetcode/blob/master/doc/SearchInRotatedSortedArrayII.md)
+
 #Why I Did This ?
 
 There are already has plenty of awesome leetCode answer on the GitHub.
