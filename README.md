@@ -9,6 +9,9 @@ List](https://github.com/s2003zy/leetcode/blob/master/doc/PartitionList.md)
 
 [Letter Combinations of a Phone Number](https://github.com/s2003zy/leetcode/blob/master/doc/LetterCombinationsOfaPhoneNumber.md)
 
+[Search in Rotated Sorted
+Array](https://github.com/s2003zy/leetcode/blob/master/doc/SearchInRotatedSortedArray.md)
+
 #Why I Did This ?
 
 There are already has plenty of awesome leetCode answer in the GitHub.
