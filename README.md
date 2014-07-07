@@ -14,6 +14,8 @@ Array](https://github.com/s2003zy/leetcode/blob/master/doc/SearchInRotatedSorted
 
 [Search in Rotated Sorted Array II](https://github.com/s2003zy/leetcode/blob/master/doc/SearchInRotatedSortedArrayII.md)
 
+[Populating Next Right Pointers in Each Node II ](https://github.com/s2003zy/leetcode/blob/master/doc/PopulatingNextRightPointersInEachNodeII.md)
+
 #Why I Did This ?
 
 There are already has plenty of awesome leetCode answer on the GitHub.
