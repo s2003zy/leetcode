@@ -11,7 +11,7 @@ List](https://github.com/s2003zy/leetcode/blob/master/doc/PartitionList.md)
 
 #Why I Did This ?
 
-There are already has plenty of awesome leetCode answer in the GitHub.
+There are already has plenty of awesome leetCode answer on the GitHub.
 
 ###First Reason
 The First Reason is that I find that Most of the them.Just simply put the source code to the GitHub
