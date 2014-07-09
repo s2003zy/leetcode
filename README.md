@@ -22,6 +22,8 @@ Regions](https://github.com/s2003zy/leetcode/blob/master/doc/SurroundedRegions.m
 [Reorder
 List](https://github.com/s2003zy/leetcode/blob/master/doc/ReorderList.md)
 
+[Word Break](https://github.com/s2003zy/leetcode/blob/master/doc/WordBreak.md)
+
 #Why I Did This ?
 
 There are already has plenty of awesome leetCode answer on the GitHub.
