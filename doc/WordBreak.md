@@ -1,6 +1,6 @@
 #Word Break
 
-[Word Break On](https://oj.leetcode.com/problems/word-break/)
+[Word Break On LeetCode](https://oj.leetcode.com/problems/word-break/)
 
 ###c++
 
