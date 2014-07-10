@@ -26,6 +26,8 @@ List](./doc/ReorderList.md)
 
 [Candy](./doc/Candy.md)
 
+[Rotate List](./doc/RotateList.md)
+
 # Why I Did This ?
 
 There are already has plenty of awesome leetCode answer on the GitHub.
