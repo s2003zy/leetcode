@@ -86,6 +86,8 @@ Welcom to contact me.
 
 Also welcom to offer me intership.Thank in advance. ^_^ 
 
+My blog: [http://s2003zy.com](http://s2003zy.com)
+
 My email:[s2003zy@gmail.com](mailto:s2003zy.com)
 
 
