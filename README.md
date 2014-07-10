@@ -66,25 +66,23 @@ I will sovle all the problem use Java.
 In this round, I will try to write some document to imporve the page.
 
 
-#When would I update?
+# When would I update?
 
 I will try to update this page as fast as possible.
 Just give me some time to finish work.
 
-#If you want to help
+# If you want to help
 
 I will so happy to get some help.You are free to contact me.
 If you familar with Chinese you could visit my blog,but if you are not
 you could email me.
 
-#About me
+# About me
 A student in mainland China
 
 Welcom to contact me.
 
-Also welcom to offer me intership.Thank in advance.^_^ 
-
-My blog: [http://s2003zy.com](http://s2003zy.com)
+Also welcom to offer me intership.Thank in advance. ^_^ 
 
 My email:[s2003zy@gmail.com](mailto:s2003zy.com)
 
