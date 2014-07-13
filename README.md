@@ -30,6 +30,8 @@ List](./doc/ReorderList.md)
 
 [Binary Tree Zigzag Level Order Traversal](./doc/BinaryTreeZigzagLevelOrderTraversal.md)
 
+[First Missing Positive](./doc/FirstMissingPositive.md)
+
 # Why I Did This ?
 
 There are already has plenty of awesome leetCode answer on the GitHub.
