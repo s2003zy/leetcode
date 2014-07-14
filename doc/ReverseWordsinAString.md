@@ -4,7 +4,7 @@
 
 ###c++
 
-``cpp
+```cpp
 class Solution {
 public:
     void reverseWords(string &s) {
