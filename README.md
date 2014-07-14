@@ -36,6 +36,8 @@ List](./doc/ReorderList.md)
 
 [Clone Graph](./doc/CloneGraph.md)
 
+[Palindrome Partitioning](./doc/PalindromePartitioning.md)
+
 # Why I Did This ?
 
 There are already has plenty of awesome leetCode answer on the GitHub.
