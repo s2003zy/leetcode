@@ -90,7 +90,7 @@ A student in mainland China
 
 Welcom to contact me.
 
-Also welcom to offer me intership.Thank in advance. ^_^ 
+Also welcom to offer me intership.Thank in advances. ^_^ 
 
 My blog: [http://s2003zy.com](http://s2003zy.com)
 
