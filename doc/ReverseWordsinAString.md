@@ -2,7 +2,7 @@
 
 [Reverse Words in a String On LeetCode](https://oj.leetcode.com/problems/reverse-words-in-a-string/)
 
-###c++
+### c++
 
 ```cpp
 class Solution {
@@ -23,6 +23,7 @@ public:
 };
 ```
 
+### python
 ```python
 class Solution:
     # @param s, a string
