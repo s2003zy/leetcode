@@ -6,6 +6,8 @@ leetcode
 
 [Single Number](./doc/SingleNumber.md)
 
+[Maximum Depth of Binary Tree](./doc/MaximumDepthofBinaryTree.md)
+
 [Partition
 List](./doc/PartitionList.md)
 
