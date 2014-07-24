@@ -12,6 +12,8 @@ leetcode
 
 [Unique Paths II](./doc/UniquePathsII.md)
 
+[Convert Sorted List to Binary Search Tree](./doc/ConvertSortedListtoBinarySearchTree.md)
+
 [Partition
 List](./doc/PartitionList.md)
 
