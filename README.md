@@ -17,6 +17,8 @@ leetcode
 [Partition
 List](./doc/PartitionList.md)
 
+[Count and Say](./doc/CountandSay.md)
+
 [Letter Combinations of a Phone Number](./doc/LetterCombinationsOfaPhoneNumber.md)
 
 [Search in Rotated Sorted
