@@ -28,6 +28,8 @@ public:
 };
 ```
 
+### python
+
 ```python
 class Solution:
     # @param obstacleGrid, a list of lists of integers
