@@ -8,6 +8,8 @@ leetcode
 
 [Maximum Depth of Binary Tree](./doc/MaximumDepthofBinaryTree.md)
 
+[Valid Sudoku](./doc/ValidSudoku.md)
+
 [Partition
 List](./doc/PartitionList.md)
 
