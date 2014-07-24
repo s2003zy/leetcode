@@ -10,6 +10,8 @@ leetcode
 
 [Valid Sudoku](./doc/ValidSudoku.md)
 
+[Unique Paths II](./doc/UniquePathsII.md)
+
 [Partition
 List](./doc/PartitionList.md)
 
