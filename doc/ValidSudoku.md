@@ -25,6 +25,7 @@ public:
         return true;
     }
 };
+```
 
 ### python
 
@@ -50,7 +51,6 @@ class Solution:
                 row[i] |= number
                 col[j] |= number
                 cell[(i/3)*3+j/3] |=number
-        return True
-        
+        return True  
 ```
 
