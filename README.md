@@ -2,6 +2,8 @@ leetcode
 ========
 # Problem List 
 
+[Permutations II](./doc/PermutationsII.md)
+
 [Jump Game II](./doc/JumpGameII.md)
 
 [Validate Binary Search Tree](./doc/ValidateBinarySearchTree.md)
