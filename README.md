@@ -2,6 +2,8 @@ leetcode
 ========
 # Problem List 
 
+[Validate Binary Search Tree](./doc/ValidateBinarySearchTree.md)
+
 [Reverse Linked List II](./doc/ReverseLinkedListII.md)
 
 [Reverse Words in a String](./doc/ReverseWordsinAString.md)
