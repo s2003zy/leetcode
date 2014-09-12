@@ -2,6 +2,8 @@ leetcode
 ========
 # Problem List 
 
+[Valid Palindrome](./doc/ValidPalindrome.md)
+
 [Permutations II](./doc/PermutationsII.md)
 
 [Jump Game II](./doc/JumpGameII.md)
@@ -22,25 +24,21 @@ leetcode
 
 [Convert Sorted List to Binary Search Tree](./doc/ConvertSortedListtoBinarySearchTree.md)
 
-[Partition
-List](./doc/PartitionList.md)
+[Partition List](./doc/PartitionList.md)
 
 [Count and Say](./doc/CountandSay.md)
 
 [Letter Combinations of a Phone Number](./doc/LetterCombinationsOfaPhoneNumber.md)
 
-[Search in Rotated Sorted
-Array](./doc/SearchInRotatedSortedArray.md)
+[Search in Rotated Sorted Array](./doc/SearchInRotatedSortedArray.md)
 
 [Search in Rotated Sorted Array II](./doc/SearchInRotatedSortedArrayII.md)
 
 [Populating Next Right Pointers in Each Node II ](./doc/PopulatingNextRightPointersInEachNodeII.md)
 
-[Surrounded
-Regions](./doc/SurroundedRegions.md)
+[Surrounded Regions](./doc/SurroundedRegions.md)
 
-[Reorder
-List](./doc/ReorderList.md)
+[Reorder List](./doc/ReorderList.md)
 
 [Word Break](./doc/WordBreak.md)
 
