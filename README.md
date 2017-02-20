@@ -4,6 +4,8 @@ leetcode
 
 [Add Two Numbers](./doc/AddTwoNumbers.md)
 
+[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/?tab=Description)
+
 [Valid Palindrome](./doc/ValidPalindrome.md)
 
 [Permutations II](./doc/PermutationsII.md)
