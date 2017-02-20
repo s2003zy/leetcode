@@ -4,7 +4,7 @@ leetcode
 
 [Add Two Numbers](./doc/AddTwoNumbers.md)
 
-[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/?tab=Description)
+[Combine Two Tables](./doc/CombineTwoTables.md)
 
 [Valid Palindrome](./doc/ValidPalindrome.md)
 
